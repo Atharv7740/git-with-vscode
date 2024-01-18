@@ -1,0 +1,9 @@
+Add and commit command in git
+
+Add- To add any changes or new file in the working directory we use add
+
+syntax: 
+
+git add <file name>
+
+

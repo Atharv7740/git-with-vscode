@@ -2,3 +2,21 @@ learning how to clone any respository of github to my local machine (vs code)
 for that we use command:
 #syntax
 *git clone <respository linK>*
+
+using git status command.
+
+it is used to check if there is any changes in the respository or not. 
+
+4 types of changes it catches.
+
+1.Unchanged
+when there is no change in file.
+
+2. Untracked
+when a new file is created that git don't track called untracked.
+
+3. modified.
+when something changes in exisiting file.
+
+4. Staged
+when we add the modified or newfile is the state of file called staged after commit the staged file will become unchanged.
