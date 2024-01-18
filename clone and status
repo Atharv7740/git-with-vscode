@@ -1,0 +1,4 @@
+learning how to clone any respository of github to my local machine (vs code)
+for that we use command:
+#syntax
+*git clone <respository linK>*
